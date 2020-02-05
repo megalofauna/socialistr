@@ -1,2 +1,0 @@
-# socialistr
-Begin app
